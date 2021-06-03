@@ -1,0 +1,49 @@
+.cor_do_paragrafo{
+    color: blue
+}
+
+.fonte_do_paragrafo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+span{
+    font-size: 1.5em;
+}
+
+strong{
+    font-style: italic;
+}
+
+.transformacoes{
+    text-transform: capitalize;
+}
+
+.transformacoes2{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.sombras{
+    font-size: 1.5em;
+    text-shadow: 2px 4px 5px rgb(95, 15, 15);
+}
+
+.texto_alinhado{
+    text-align: center;
+}
+
+.altura{
+    line-height: 1.6em;
+    font-size: 20px;
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+
+
+#div1 { background-color: yellow; }        
+#div2 { background-color: #ababab; }
+#div3 { background-color: rgb(125, 89, 65); }
+#div4 { background-color: rgba(125, 89, 65, 0.5); }
+#div5 { background-color: hsl(120, 100%, 50%); }
+#div6 { background-color: hsla(120, 50%, 50%, 0.5);}
